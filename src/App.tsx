@@ -178,6 +178,81 @@ const allQuestions = [
         "problem": "What is the value of 9³?",
         "options": ["81", "243", "729", "2,187"],
         "answer": "729"
+    },
+    {
+        "problem": "What is the sum of 27 and 19?",
+        "options": ["36", "46", "56", "66"],
+        "answer": "46"
+    },
+    {
+        "problem": "What is the product of 9 and 5?",
+        "options": ["14", "27", "45", "54"],
+        "answer": "45"
+    },
+    {
+        "problem": "If a rectangle has a length of 10 units and a width of 4 units, what is its area?",
+        "options": ["14", "24", "34", "40"],
+        "answer": "40"
+    },
+    {
+        "problem": "If a box contains 36 marbles and you take out 15 marbles, how many marbles are left in the box?",
+        "options": ["11", "16", "21", "31"],
+        "answer": "21"
+    },
+    {
+        "problem": "What is the difference between 89 and 56?",
+        "options": ["23", "33", "43", "53"],
+        "answer": "33"
+    },
+    {
+        "problem": "If a triangle has a base of 8 units and a height of 6 units, what is its area?",
+        "options": ["12", "24", "28", "48"],
+        "answer": "24"
+    },
+    {
+        "problem": "What is the value of 9³?",
+        "options": ["27", "81", "243", "729"],
+        "answer": "729"
+    },
+    {
+        "problem": "If a clock shows 2:25 PM, what time will it be after 3 hours and 10 minutes?",
+        "options": ["4:35 PM", "5:35 PM", "5:45 PM", "6:35 PM"],
+        "answer": "5:35 PM"
+    },
+    {
+        "problem": "What is the quotient of 48 and 6?",
+        "options": ["6", "7", "8", "9"],
+        "answer": "8"
+    },
+    {
+        "problem": "What is the value of 7²?",
+        "options": ["9", "16", "25", "49"],
+        "answer": "49"
+    },
+    {
+        "problem": "If a square has a side length of 6 units, what is its area?",
+        "options": ["12", "18", "24", "36"],
+        "answer": "36"
+    },
+    {
+        "problem": "A book costs $20. If Eric pays with a $50 bill, how much change will he receive?",
+        "options": ["$20", "$30", "$40", "$50"],
+        "answer": "$30"
+    },
+    {
+        "problem": "What is the sum of 68 and 39?",
+        "options": ["87", "107", "117", "127"],
+        "answer": "107"
+    },
+    {
+        "problem": "What is the product of 6 and 9?",
+        "options": ["15", "42", "45", "54"],
+        "answer": "54"
+    },
+    {
+        "problem": "If a rectangle has a length of 12 units and a width of 3 units, what is its perimeter?",
+        "options": ["10", "18", "24", "30"],
+        "answer": "30"
     }
 ];
 
